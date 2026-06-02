@@ -1,0 +1,44 @@
+{
+  "name": "github-follow-analyzer",
+  "version": "2.0.0",
+  "description": "Professional GitHub follower analysis tool - Analyze following, followers, and unfollowers with Excel export",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "gh-pages -d .",
+    "lint": "eslint *.js",
+    "format": "prettier --write \"**/*.{html,css,js,json,md}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/github-analyzer.git"
+  },
+  "keywords": [
+    "github",
+    "analyzer",
+    "followers",
+    "following",
+    "unfollowers",
+    "github-api",
+    "excel-export",
+    "analytics",
+    "social-analytics",
+    "github-tools"
+  ],
+  "author": "Baver Koca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/github-analyzer/issues"
+  },
+  "homepage": "https://github.com/yourusername/github-analyzer#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "gh-pages": "^6.0.0",
+    "prettier": "^3.0.0",
+    "serve": "^14.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
