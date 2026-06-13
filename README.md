@@ -7,23 +7,6 @@ A professional GitHub follower analysis tool. Analyze any GitHub user's followin
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## 📸 Screenshots
-
-### Main Interface
-![GitHub Analyzer Main Screen](./assets/screenshots/main-screen.png)
-
-### Analysis Results
-![Analysis Results](./assets/screenshots/analysis-results.png)
-
-### Excel Export
-![Excel Report](./assets/screenshots/excel-export.png)
-
-## 🌐 Demo
-
-**[🚀 Try Live Demo](https://yourusername.github.io/github-analyzer/)**
-
-> Note: Click the link above to use the demo page. Sample user: `octocat`
-
 ## ✨ Features
 
 - 🔍 **Detailed Analysis**: View following, followers, and unfollowers
@@ -39,15 +22,10 @@ A professional GitHub follower analysis tool. Analyze any GitHub user's followin
 
 ## 🚀 Quick Start
 
-### Option 1: Online Usage (Recommended)
-1. Visit the [Live Demo](https://yourusername.github.io/github-analyzer/) page
-2. Enter GitHub username
-3. Analyze!
-
-### Option 2: Local Usage
+### Local Usage
 1. Download or clone the project:
    ```bash
-   git clone https://github.com/yourusername/github-analyzer.git
+   git clone https://github.com/BaverKoca/github-analyzer.git
    ```
 2. Open **index.html** in your browser
 3. Enter GitHub username (example: `octocat`)
@@ -121,13 +99,6 @@ Use the real-time search box to filter usernames.
 - **GitHub REST API v3**: Data source
 - **SheetJS (XLSX)**: Excel export
 
-### API Endpoints
-
-```javascript
-GET https://api.github.com/users/{username}/following
-GET https://api.github.com/users/{username}/followers
-```
-
 ### Rate Limits
 
 - **Without Token**: 60 requests/hour
@@ -140,14 +111,6 @@ GET https://api.github.com/users/{username}/followers
 - ✅ Safari 14+
 - ✅ Edge 90+
 
-## 📁 Project Structure
-
-```
-Github Control/
-├── index.html          # Main application (single file)
-├── README.md           # Turkish documentation
-├── README_EN.md        # English documentation
-└── LICENSE             # MIT License
 ```
 
 ## 🔐 Privacy & Security
@@ -156,20 +119,6 @@ Github Control/
 - ✅ No data is sent to any server
 - ✅ Tokens are not stored in localStorage
 - ✅ Connects to GitHub API over HTTPS
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-For more details, see [CONTRIBUTING.md](CONTRIBUTING.md)
-
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🐛 Known Issues
 
