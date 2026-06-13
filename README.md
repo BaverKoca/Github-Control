@@ -177,27 +177,8 @@ Use the real-time search box to filter usernames.
 - Use a token (for rate limit increase)
 - Large accounts (~10,000+ follows) normally take longer to analyze
 
-## 🔮 Future Features
-
-- [ ] Dark/Light theme switcher
-- [ ] Charts and statistics
-- [ ] Follow history comparison
-- [ ] PDF export
-- [ ] Multi-user comparison
-- [ ] Automatic token refresh
-
-## 📞 Contact
-
-Feel free to open an issue for questions or suggestions.
-
 ## 🙏 Acknowledgments
 
 - [GitHub API](https://docs.github.com/en/rest) - Data source
 - [SheetJS](https://sheetjs.com/) - Excel export library
 - GitHub community - For inspiration
-
----
-
-⭐ If you like the project, don't forget to star it!
-
-**Copyright GitHub Analyzer developed by Baver Koca.**
