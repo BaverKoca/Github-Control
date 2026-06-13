@@ -7,6 +7,8 @@ A professional GitHub follower analysis tool. Analyze any GitHub user's followin
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
+<img width="1920" height="849" alt="Image" src="https://github.com/user-attachments/assets/cf40b245-8950-4e3d-9bcd-a0c84a72488b" />
+
 ## ✨ Features
 
 - 🔍 **Detailed Analysis**: View following, followers, and unfollowers
